@@ -25,6 +25,5 @@ def last_evaluated_value(y)
 end
 
 def pizza_party(topping = "cheese")
-puts topping
-return
+topping
 end
