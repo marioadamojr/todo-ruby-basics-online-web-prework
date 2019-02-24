@@ -17,15 +17,12 @@ end
 
 def return_a_value
   "Nice"
-  return
 end
 
-def last_evaluated_value(y)
-  y
-  return
+def last_evaluated_value
+  "expert"
 end
 
 def pizza_party(topping = "cheese")
-puts topping
-return
+  topping
 end
