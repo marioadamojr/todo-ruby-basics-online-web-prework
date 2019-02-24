@@ -17,7 +17,6 @@ end
 
 def return_a_value
   "Nice"
-  return
 end
 
 def last_evaluated_value(y)
